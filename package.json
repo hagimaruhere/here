@@ -2,7 +2,7 @@
   "name": "fb-ui-clone-master",
   "version": "1.0.0",
   "description": "A responsive clone of Facebook login page using HTML & CSS for computer screen and mobile screen.",
-  "main": "index.js",
+  "main": "server.js",
   "type": "module",
   "scripts": {
     "test": "node server.js"
